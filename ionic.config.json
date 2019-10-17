@@ -1,0 +1,7 @@
+{
+  "name": "testWifi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
